@@ -1,3 +1,3 @@
 
 Colors for PRIO-related projects
-!(color swatch)[swatch.png]
+![color swatch](swatch.png)
