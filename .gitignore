@@ -1,0 +1,5 @@
+
+.secret/*
+out/*
+!out/.gitkeep
+raw/*.yaml
